@@ -1,0 +1,12 @@
+pyproject.toml
+editorial_generator/__init__.py
+editorial_generator/ai.py
+editorial_generator/api.py
+editorial_generator/cli.py
+editorial_generator/logger.py
+omegaup_editorial_generator.egg-info/PKG-INFO
+omegaup_editorial_generator.egg-info/SOURCES.txt
+omegaup_editorial_generator.egg-info/dependency_links.txt
+omegaup_editorial_generator.egg-info/entry_points.txt
+omegaup_editorial_generator.egg-info/requires.txt
+omegaup_editorial_generator.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+# Quality problems selected for AI editorial testing
+# Generated on 2025-06-06 17:06:03
+# Total problems: 100
+# One problem alias per line
+
+KarelGO
+Ventas-en-la-pulperia
+Menor-a-Mayor
+Encontrando-Comida
+Alumnos-Pobres

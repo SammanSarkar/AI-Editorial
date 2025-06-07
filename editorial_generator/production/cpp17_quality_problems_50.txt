@@ -1,0 +1,56 @@
+# C++17 compatible quality problems selected for AI editorial testing
+# Generated on 2025-06-06 18:40:13
+# Total problems: 50
+# All problems support cpp17-gcc language
+# One problem alias per line
+
+Mocha-Hojas
+crateres
+Conjunto-Capicua
+Highway-Trip
+gusano_escalador
+la_medida_del_tiempo
+Repeticiones
+DP-Generica
+CR-Cambiando-diplomas
+androides
+fencepaintinggame
+K-Mapa-del-tesoro
+conacup_impacto
+mbp
+temblor
+piramide-munra
+The-Walking-Karel-Season-1
+conacup_facebook
+arbolesnieves
+digitproducts
+Numeros-triangulares
+mpintor
+K-OMI2009-Divisores
+premios
+comesolo
+Contando-digitos
+tablero
+Final-Cubico
+Extremos-de-una-funcion-cubica
+mexico
+K-OMI2011-Kareleseo
+bebedor_refresco
+museob
+animales
+Caballos
+rebeldes
+multiplos
+lacueva
+amigos
+Flavio
+Rifa
+pyramid
+patrones
+Proyectiles
+metrodebrisbane
+cuentaperm
+robots
+CR-Lectura-y-escritura
+super-nieves-bros
+benevola_chizpa

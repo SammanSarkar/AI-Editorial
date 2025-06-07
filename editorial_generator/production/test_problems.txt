@@ -1,0 +1,5 @@
+# Test problems for AC tester
+# Small sample for testing
+
+aplusb
+sumas 

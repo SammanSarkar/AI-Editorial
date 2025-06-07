@@ -1,0 +1,7 @@
+# problems for bulk processing
+# run - python demo.py --bulk problems.txt
+triangulos-interactive
+#colas
+#filas
+#restas
+#pilas

@@ -1,0 +1,2 @@
+[console_scripts]
+omegaup-editorial-generator = editorial_generator.cli:main

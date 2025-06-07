@@ -1,0 +1,8 @@
+# Sample problems file for bulk editorial generation
+# Lines starting with # are comments and will be ignored
+# Put one problem alias per line
+
+# Basic problems for testing
+
+Product-of-Three-Numbers
+Sum-of-Two-Numbers

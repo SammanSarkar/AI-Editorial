@@ -1,0 +1,5 @@
+# Quality problems for Karel fallback testing
+# Generated for testing AC tester with 5 problems
+# Mix of regular and potential Karel problems
+
+occ09sfpn23

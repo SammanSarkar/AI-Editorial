@@ -1,0 +1,55 @@
+# Quality problems selected for AI editorial testing
+# Generated on 2025-06-06 17:03:59
+# Total problems: 50
+# One problem alias per line
+
+S-UP-er-Market
+Anagramas-Especiales
+Promedio_positivos_neg
+occ09sfpn23
+REcursion-a-REcursar
+Rango-de-una-matriz
+Big-Mod
+Pancho-en-Cholywood
+iP-Karel-Tomar-un-zumbador
+Encontrando-combinaciones-oculta
+siteda
+Among-Us
+Corriendo-y-saludando-por-la-UAM
+Degrade
+Compresion-de-cadenas
+Gira-a-la-derecha
+Terna-Pitagorica
+Sandia
+Reyes-al-ataque
+Buscando-Productos
+Calculos-iterativos-2
+Saltando-hacia-la-pared
+El-venderor-mas-rapido-del-oeste
+CR20-Encriptando-mensajes
+1-Bisiesto-sencillo
+Eskarela
+Sonrics-el-erradicador
+regalos_costosos
+iP-Karel-El-celular-de-Karel
+Adivina-El-Operador
+Camino-Pobre-de-Timmy
+Suma-de-digitos-recurrente
+muralla_humbaba
+Figuras-y-palitos-
+DFD-Diferencia-Horaria
+Degustando-chocolates
+Festejando
+Garden
+En-busca-del-tesoro
+mina_la
+Un-orden-para-todos
+Salvador-y-sus-alumnos
+Elotes
+OMI2015KAREL4
+Dividiendo-el-Panque
+Season-of-the-year
+Suma-Japonesa
+Amigos-y-Regalos
+A-cuanto-esta-el-queso
+Numeros-primos_
